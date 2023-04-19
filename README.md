@@ -1,8 +1,9 @@
 ### Hi there, I'm Gajender 👋
-## 
+## Believer ♥
+
 * 🔭 I’m currently working on ML Projects Using CICD-Pipeline .
 * 🌱 I’m currently learning Deep Learning.
-* ⚡ Fun fact: ML and RCB .
+* ⚡ Fun fact: ML and RCB ♥.
 
 
 <!--
