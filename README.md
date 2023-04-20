@@ -4,6 +4,7 @@
 * 🔭 I’m currently working on ML Projects Using CICD-Pipeline .
 * 🌱 I’m currently learning Deep Learning.
 * ⚡ Fun fact: ML and RCB ♥.
+* 📫 Idols: [Atma Kumar Rai Sir](*) and Virat Kohli
 
 
 <!--
