@@ -4,6 +4,8 @@
 * 🔭 I’m currently working on ML Projects Using CICD-Pipeline .
 * 🌱 I’m currently learning Deep Learning.
 * ⚡ Fun fact: ML and RCB ♥.
+<!-- * [![GitHub Streak](https://streak-stats.demolab.com/?user=gajender0707)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=gajender0707&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
