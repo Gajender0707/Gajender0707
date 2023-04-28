@@ -7,6 +7,7 @@
 <!-- * [![GitHub Streak](https://streak-stats.demolab.com/?user=gajender0707)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=gajender0707&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajender0707&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajender0707&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
