@@ -1,9 +1,8 @@
 ### Hi there, I'm Gajender 👋
-## Believer ♥
   ![](https://komarev.com/ghpvc/?username=gajender0707&color=green)
   [![Twitter Follow](https://img.shields.io/twitter/follow/iamsanju0707?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamsanju0707)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gajender07)
-
+## Believer ♥
 * 🔭 I’m currently working on ML Projects Using CICD-Pipeline .
 * 🌱 I’m currently learning Deep Learning.
 * ⚡ Fun fact: ML and RCB ♥.
