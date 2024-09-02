@@ -30,7 +30,7 @@
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> 
+            <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
             <img src="https://github.com/Gajender0707/ashishpatel26/blob/main/assets/icons/scikitlearn.png?raw=true" width="65px"/>
@@ -38,11 +38,11 @@
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> 
+            <br /> FastApi
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> 
+            <br /> Docker
         </td>
     </tr>
 </table>
