@@ -29,8 +29,8 @@
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
+            <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png"/>
+            <br /> Django
         </td>
         <td align="center" width="140" height="112.43">
             <img src="https://github.com/Gajender0707/ashishpatel26/blob/main/assets/icons/scikitlearn.png?raw=true" width="65px"/>
