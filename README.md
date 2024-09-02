@@ -37,11 +37,11 @@
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastApi
+            <img src="https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=AVc2G-hvHNjTMklQtEt6qlby2l79Bf5dBBkUB5DBRe0" width="65px"/>
+            <br /> RESTApi
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
+            <img src="https://miro.medium.com/v2/resize:fit:1400/1*bZP17SmwRZihfAYDr5KBFg.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
