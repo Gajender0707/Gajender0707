@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning Deep Learning.
 * ⚡ Fun fact: ML and RCB ♥.
 <!-- * [![GitHub Streak](https://streak-stats.demolab.com/?user=gajender0707)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gajender0707)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajender0707&layout=compact)](https://github.com/gajender0707/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gajender0707&theme=github-compact)](https://github.com/gajender0707/github-readme-activity-graph)
    ## ⚡ Technologies I use 
